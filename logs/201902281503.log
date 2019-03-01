@@ -1,0 +1,29 @@
+2019-02-28 15:03:53,430-BrowserEngine-INFO-你选择Chrome浏览器
+2019-02-28 15:03:53,430-BrowserEngine-INFO-测试的服务链接是http://127.0.0.1/forum.php
+2019-02-28 15:03:55,946-BrowserEngine-INFO-开始Chrome浏览器
+2019-02-28 15:03:56,968-BrowserEngine-INFO-打开链接http://127.0.0.1/forum.php
+2019-02-28 15:03:58,101-BrowserEngine-INFO-当前窗口最大化
+2019-02-28 15:03:58,101-BrowserEngine-INFO-设置隐式等待时间10秒
+2019-02-28 15:03:58,131-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '#ls_username')
+2019-02-28 15:03:58,131-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '#ls_username')
+2019-02-28 15:03:58,264-BasePage-INFO-输入内容sas
+2019-02-28 15:03:58,264-BasePage-INFO-输入内容sas
+2019-02-28 15:03:58,324-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '#ls_password')
+2019-02-28 15:03:58,324-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '#ls_password')
+2019-02-28 15:03:58,404-BasePage-INFO-输入内容1393269559
+2019-02-28 15:03:58,404-BasePage-INFO-输入内容1393269559
+2019-02-28 15:03:58,443-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '.fastlg_l>button')
+2019-02-28 15:03:58,443-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>找到页面元素('css selector', '.fastlg_l>button')
+2019-02-28 15:03:58,503-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fdbaec5e19bcb0276306b129f4f58fb7", element="0.18073236622595257-3")>元素被点击
+2019-02-28 15:03:58,503-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fdbaec5e19bcb0276306b129f4f58fb7", element="0.18073236622595257-3")>元素被点击
+2019-02-28 15:03:58,503-BasePage-INFO-登录成功
+2019-02-28 15:03:58,503-BasePage-INFO-登录成功
+2019-02-28 15:04:09,024-BasePage-ERROR-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>页面中没有找到('css selector', '.vwmy>a')元素
+2019-02-28 15:04:09,024-BasePage-ERROR-<pageobjects.discuz_mainpage.MainPage object at 0x0000026FDB1E6748>页面中没有找到('css selector', '.vwmy>a')元素
+2019-02-28 15:04:09,286-BasePage-INFO-有截屏并且保存的路径是/screenshots/
+2019-02-28 15:04:09,286-BasePage-INFO-有截屏并且保存的路径是/screenshots/
+2019-02-28 15:04:09,286-BasePage-ERROR-登录失败'NoneType' object has no attribute 'text'
+2019-02-28 15:04:09,286-BasePage-ERROR-登录失败'NoneType' object has no attribute 'text'
+2019-02-28 15:04:09,572-BasePage-INFO-有截屏并且保存的路径是/screenshots/
+2019-02-28 15:04:09,572-BasePage-INFO-有截屏并且保存的路径是/screenshots/
+2019-02-28 15:04:09,572-BrowserEngine-INFO-现在关闭退出浏览器

@@ -1,0 +1,77 @@
+2019-02-28 09:53:55,691-BrowserEngine-INFO-你选择Chrome浏览器
+2019-02-28 09:53:55,695-BrowserEngine-INFO-测试的服务链接是http://127.0.0.1/forum.php
+2019-02-28 09:53:59,407-BrowserEngine-INFO-开始Chrome浏览器
+2019-02-28 09:54:00,735-BrowserEngine-INFO-打开链接http://127.0.0.1/forum.php
+2019-02-28 09:54:01,889-BrowserEngine-INFO-当前窗口最大化
+2019-02-28 09:54:01,891-BrowserEngine-INFO-设置隐式等待时间10秒
+2019-02-28 09:54:01,976-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '#ls_username')
+2019-02-28 09:54:01,976-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '#ls_username')
+2019-02-28 09:54:02,203-BasePage-INFO-输入内容admin
+2019-02-28 09:54:02,203-BasePage-INFO-输入内容admin
+2019-02-28 09:54:02,236-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '#ls_password')
+2019-02-28 09:54:02,236-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '#ls_password')
+2019-02-28 09:54:02,308-BasePage-INFO-输入内容1393269559
+2019-02-28 09:54:02,308-BasePage-INFO-输入内容1393269559
+2019-02-28 09:54:02,338-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.fastlg_l>button')
+2019-02-28 09:54:02,338-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.fastlg_l>button')
+2019-02-28 09:54:02,402-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.5625195467584083-3")>元素被点击
+2019-02-28 09:54:02,402-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.5625195467584083-3")>元素被点击
+2019-02-28 09:54:02,402-BasePage-INFO-登录成功
+2019-02-28 09:54:02,402-BasePage-INFO-登录成功
+2019-02-28 09:54:03,317-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.vwmy>a')
+2019-02-28 09:54:03,317-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.vwmy>a')
+2019-02-28 09:54:03,420-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.fl_icn>a')
+2019-02-28 09:54:03,420-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.fl_icn>a')
+2019-02-28 09:54:03,924-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.3468491515679082-2")>元素被点击
+2019-02-28 09:54:03,924-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.3468491515679082-2")>元素被点击
+2019-02-28 09:54:03,924-BasePage-INFO-成功点击默认版块
+2019-02-28 09:54:03,924-BasePage-INFO-成功点击默认版块
+2019-02-28 09:54:04,034-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('id', 'newspecial')
+2019-02-28 09:54:04,034-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('id', 'newspecial')
+2019-02-28 09:54:04,695-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.09891570930424076-1")>元素被点击
+2019-02-28 09:54:04,695-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.09891570930424076-1")>元素被点击
+2019-02-28 09:54:04,774-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.mbw li:nth-child(2) a')
+2019-02-28 09:54:04,774-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.mbw li:nth-child(2) a')
+2019-02-28 09:54:05,461-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.2665757505436459-1")>元素被点击
+2019-02-28 09:54:05,461-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.2665757505436459-1")>元素被点击
+2019-02-28 09:54:05,461-BasePage-INFO-成功点击发起投票
+2019-02-28 09:54:05,461-BasePage-INFO-成功点击发起投票
+2019-02-28 09:54:05,565-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.z #subject')
+2019-02-28 09:54:05,565-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.z #subject')
+2019-02-28 09:54:05,663-BasePage-INFO-输入内容宋雪东
+2019-02-28 09:54:05,663-BasePage-INFO-输入内容宋雪东
+2019-02-28 09:54:05,719-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(1) input')
+2019-02-28 09:54:05,719-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(1) input')
+2019-02-28 09:54:05,787-BasePage-INFO-输入内容真帅
+2019-02-28 09:54:05,787-BasePage-INFO-输入内容真帅
+2019-02-28 09:54:05,837-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(2) input')
+2019-02-28 09:54:05,837-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(2) input')
+2019-02-28 09:54:05,958-BasePage-INFO-输入内容真漂亮
+2019-02-28 09:54:05,958-BasePage-INFO-输入内容真漂亮
+2019-02-28 09:54:05,999-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(3) input')
+2019-02-28 09:54:05,999-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.sinf div:nth-last-child(2) p:nth-child(3) input')
+2019-02-28 09:54:06,063-BasePage-INFO-输入内容真白
+2019-02-28 09:54:06,063-BasePage-INFO-输入内容真白
+2019-02-28 09:54:06,096-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pnpost button:nth-child(2)')
+2019-02-28 09:54:06,096-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pnpost button:nth-child(2)')
+2019-02-28 09:54:06,226-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.21737916566540139-5")>元素被点击
+2019-02-28 09:54:06,226-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.21737916566540139-5")>元素被点击
+2019-02-28 09:54:07,480-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pslt #option_1')
+2019-02-28 09:54:07,480-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pslt #option_1')
+2019-02-28 09:54:07,553-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.20569276391849423-1")>元素被点击
+2019-02-28 09:54:07,553-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.20569276391849423-1")>元素被点击
+2019-02-28 09:54:07,586-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht .pn')
+2019-02-28 09:54:07,586-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht .pn')
+2019-02-28 09:54:08,353-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.20569276391849423-2")>元素被点击
+2019-02-28 09:54:08,353-BasePage-INFO-<selenium.webdriver.remote.webelement.WebElement (session="fd00aa240084b466bd4eb803c2c159af", element="0.20569276391849423-2")>元素被点击
+2019-02-28 09:54:08,353-BasePage-INFO-成功发起投票
+2019-02-28 09:54:08,353-BasePage-INFO-成功发起投票
+2019-02-28 09:54:08,388-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht tr:nth-child(1) td label')
+2019-02-28 09:54:08,388-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht tr:nth-child(1) td label')
+2019-02-28 09:54:08,452-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht tr:nth-child(3) td label')
+2019-02-28 09:54:08,452-BasePage-INFO-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>找到页面元素('css selector', '.pcht tr:nth-child(3) td label')
+2019-02-28 09:54:19,011-BasePage-ERROR-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>页面中没有找到('css selector', '.pcht tr:nth-child(5) td label')元素
+2019-02-28 09:54:19,011-BasePage-ERROR-<pageobjects.discuz_mainpage.MainPage object at 0x000001AF10021CF8>页面中没有找到('css selector', '.pcht tr:nth-child(5) td label')元素
+2019-02-28 09:54:19,012-BasePage-ERROR-获取标题 名称 比例失败'NoneType' object has no attribute 'text'
+2019-02-28 09:54:19,012-BasePage-ERROR-获取标题 名称 比例失败'NoneType' object has no attribute 'text'
+2019-02-28 09:54:19,012-BrowserEngine-INFO-现在关闭退出浏览器
